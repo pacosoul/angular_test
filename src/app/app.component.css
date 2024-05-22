@@ -1,0 +1,8 @@
+.brand-logo {
+  width: 100px;
+  height: auto;
+}
+main {
+  --primary-color: purple;
+  --accent-color: #ccc;
+}
